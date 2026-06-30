@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/prash/Desktop/Peronal Projects/UE5/BadBot/Content/Meshes/SM_BlasterBeam.uasset",
+				"C:/Users/prash/Desktop/Peronal Projects/UE5/BadBot/Content/Meshes/SM_Drone.uasset",
+				"C:/Users/prash/Desktop/Peronal Projects/UE5/BadBot/Content/Blueprints/BP_BlasterBeam.uasset",
+				"C:/Users/prash/Desktop/Peronal Projects/UE5/BadBot/Content/Blueprints/BP_Bot.uasset",
 				"C:/Users/prash/Desktop/UE5/BadBot/Content/Maps/NewWorld.umap",
 				"C:/Users/prash/Desktop/UE5/BadBot/Content/BadBotLevel.umap",
 				"C:/Users/prash/Desktop/UE5/BadBot/Content/Maps/BadBotLevel.umap",
