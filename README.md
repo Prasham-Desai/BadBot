@@ -1,4 +1,4 @@
-![BadBot Logo](Screenshots/Game%20Logo.png)
+![BadBot Logo](<./Screenshots/Game Logo.png>)
 
 # BadBot
 
@@ -31,14 +31,14 @@ The game features multi-level progression culminating in an epic boss fight at t
 Here is a look at BadBot in action!
 
 ### Splash Screen
-![Splash Screen](Screenshots/Splash%20Screen.png)
+![Splash Screen](<./Screenshots/Splash Screen.png>)
 
 ### Gameplay & Environments
-![Screenshot 1](Screenshots/1.png)
+![Screenshot 1](./Screenshots/1.png)
 
-![Screenshot 2](Screenshots/3.png)
+![Screenshot 2](./Screenshots/3.png)
 
-![Screenshot 3](Screenshots/4.png)
+![Screenshot 3](./Screenshots/4.png)
 
 ---
 
@@ -114,4 +114,4 @@ An overview of the main directories you'll interact with:
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+This is an unlicensed personal project created for the purpose of learning and experimenting with Unreal Engine 5.
