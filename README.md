@@ -1,8 +1,10 @@
-![BadBot Logo](<./Screenshots/Game Logo.png>)
+<div align="center">
+  <img src="./ScreenShots/Game%20Logo.png" alt="BadBot Logo" width="400"/>
+  
+  # BadBot
 
-# BadBot
-
-**An Action-Packed Unreal Engine 5 Experience**
+  **An Action-Packed Unreal Engine 5 Experience**
+</div>
 
 ---
 
@@ -31,14 +33,14 @@ The game features multi-level progression culminating in an epic boss fight at t
 Here is a look at BadBot in action!
 
 ### Splash Screen
-![Splash Screen](<./Screenshots/Splash Screen.png>)
+![Splash Screen](<./ScreenShots/Splash Screen.png>)
 
 ### Gameplay & Environments
-![Screenshot 1](./Screenshots/1.png)
+![Screenshot 1](./ScreenShots/1.png)
 
-![Screenshot 2](./Screenshots/3.png)
+![Screenshot 2](./ScreenShots/3.png)
 
-![Screenshot 3](./Screenshots/4.png)
+![Screenshot 3](./ScreenShots/4.png)
 
 ---
 
@@ -108,7 +110,7 @@ An overview of the main directories you'll interact with:
   - `Input/`: Input Actions (IA) and Input Mapping Contexts (IMC).
   - `Maps/`: Level files (e.g., `BadBotLevel.umap`).
   - `UI/`: Widgets, HUDs, and menus.
-- `Screenshots/`: Promotional and gameplay images for documentation.
+- `ScreenShots/`: Promotional and gameplay images for documentation.
 
 ---
 
