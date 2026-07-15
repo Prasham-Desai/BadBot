@@ -1,42 +1,27 @@
-<div align="center">
-  <img src="Screenshots/Game Logo.png" alt="BadBot Logo" width="400"/>
-  
-  # BadBot
+![BadBot Logo](Screenshots/Game%20Logo.png)
 
-  **An Action-Packed Unreal Engine 5 Experience**
-</div>
+# BadBot
 
----
-
-## 📖 Table of Contents
-- [About The Game](#about-the-game)
-- [Key Features](#key-features)
-- [Screenshots](#screenshots)
-- [Technical Details](#technical-details)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation & Launch](#installation--launch)
-  - [Packaging the Game](#packaging-the-game)
-- [Controls](#controls)
-- [Project Structure](#project-structure)
-- [License](#license)
+**An Action-Packed Unreal Engine 5 Experience**
 
 ---
 
 ## 🎮 About The Game
 
-**BadBot** is a dynamic, fast-paced action game developed in Unreal Engine 5. Set against stunning backdrops, including an intricately designed Asian Village environment, the game pushes the boundaries of real-time rendering and fluid gameplay. 
+**BadBot** is a dynamic, fast-paced action game developed in Unreal Engine 5. 
 
-*(Note: Replace this section with a deep dive into the lore, story, and overarching goals of BadBot. What makes your protagonist unique? Who are the enemies?)*
+**Story:** Futuristic bots have taken up an ancient village, and a bad bot gone rogue is defending the village against them!
+
+The game features multi-level progression culminating in an epic boss fight at the end. Built with a floating pawn movement system, you have complete 3D mobility to navigate the beautifully crafted Asian Village and engage in intense combat.
 
 ---
 
 ## ✨ Key Features
 
+- **Multi-Level Progression:** Fight through multiple levels leading up to a final boss fight.
 - **Next-Gen Graphics:** Leverages Unreal Engine 5's Lumen and Nanite systems for hyper-realistic lighting and high-fidelity geometry.
-- **Dynamic Combat System:** Fluid movement paired with responsive and engaging combat mechanics.
-- **Rich Environments:** Explore diverse levels, starting with a beautifully crafted Asian Village map (`BadBotLevel.umap`).
-- **Enhanced Input System:** Fully utilizes UE5's Enhanced Input for seamless control mapping across multiple input devices (Keyboard/Mouse, Gamepad, and VR setups).
+- **Unique Movement:** Full 3D mobility utilizing a floating pawn movement system.
+- **Rich Environments:** Explore diverse levels, starting with a beautifully crafted ancient Asian Village map.
 - **Blueprint-Driven Logic:** Highly modular and customizable game logic powered by Unreal's visual scripting.
 
 ---
@@ -49,25 +34,21 @@ Here is a look at BadBot in action!
 ![Splash Screen](Screenshots/Splash%20Screen.png)
 
 ### Gameplay & Environments
-*Click to enlarge.*
+![Screenshot 1](Screenshots/1.png)
 
-<div align="center">
-  <img src="Screenshots/1.png" alt="Screenshot 1" width="800" />
-  <br/><br/>
-  <img src="Screenshots/3.png" alt="Screenshot 2" width="800" />
-  <br/><br/>
-  <img src="Screenshots/4.png" alt="Screenshot 3" width="800" />
-</div>
+![Screenshot 2](Screenshots/3.png)
+
+![Screenshot 3](Screenshots/4.png)
 
 ---
 
 ## 🛠 Technical Details
 
 - **Engine Version:** Unreal Engine 5.6
-- **Target Platforms:** Windows PC (Scalable to Consoles & VR)
+- **Target Platforms:** Windows PC
 - **Input Handling:** Enhanced Input Subsystem
 - **Rendering:** Lumen Global Illumination & Reflections, Virtual Shadow Maps
-- **Core Architecture:** Blueprint Only (Extensible to C++)
+- **Core Architecture:** Blueprint Only
 
 ---
 
@@ -102,30 +83,17 @@ To build a standalone executable that you can share:
 
 ## 🕹 Controls
 
-BadBot supports both Keyboard & Mouse and Gamepad inputs seamlessly. *(Edit these if custom keybinds are assigned in the Input Mapping Context)*
+BadBot uses a floating pawn movement system allowing for omnidirectional movement. 
 
 ### Keyboard & Mouse
 | Action | Key Binding |
 | :--- | :--- |
-| **Move** | `W`, `A`, `S`, `D` |
+| **Move (Forward/Left/Back/Right)** | `W`, `A`, `S`, `D` |
+| **Move Up** | `Spacebar` |
+| **Move Down** | `Shift` |
 | **Look / Aim** | `Mouse Movement` |
-| **Primary Attack** | `Left Mouse Button` |
-| **Secondary / ADS** | `Right Mouse Button` |
-| **Jump** | `Spacebar` |
-| **Sprint** | `Left Shift` |
-| **Interact** | `E` |
+| **Fire (Hold for constant)** | `Left Mouse Button` |
 | **Pause Menu** | `Esc` |
-
-### Gamepad (Xbox / PlayStation)
-| Action | Key Binding |
-| :--- | :--- |
-| **Move** | `Left Stick` |
-| **Look / Aim** | `Right Stick` |
-| **Primary Attack** | `Right Trigger (RT / R2)` |
-| **Secondary / ADS** | `Left Trigger (LT / L2)` |
-| **Jump** | `Face Button Bottom (A / Cross)` |
-| **Interact** | `Face Button Left (X / Square)` |
-| **Pause Menu** | `Start / Options` |
 
 ---
 
@@ -146,4 +114,4 @@ An overview of the main directories you'll interact with:
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details. *(Update this if you are using a different license or if it's closed source).*
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
