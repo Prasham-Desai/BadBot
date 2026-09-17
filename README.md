@@ -113,11 +113,11 @@ An overview of the main directories you'll interact with:
 - `ScreenShots/`: Promotional and gameplay images for documentation.
 
 ---
-
 ## 📄 License
-
-This is an unlicensed personal project created for the purpose of learning and experimenting with Unreal Engine 5.
+---
 
 <div align="center">
-  <img src="screenshots/github-readme-banner.svg" alt="Signature" />
+<sub>Built with &#x2764;&#xFE0F; using Unreal Engine 5</sub>
+<br><br>
+<img src="ScreenShots/github-readme-banner.svg" alt="Creator Signature Banner"/>
 </div>
