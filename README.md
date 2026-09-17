@@ -112,9 +112,7 @@ An overview of the main directories you'll interact with:
   - `UI/`: Widgets, HUDs, and menus.
 - `ScreenShots/`: Promotional and gameplay images for documentation.
 
----
-## 📄 License
----
+--
 
 <div align="center">
 <sub>Built with &#x2764;&#xFE0F; using Unreal Engine 5</sub>
