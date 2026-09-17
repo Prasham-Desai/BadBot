@@ -117,3 +117,7 @@ An overview of the main directories you'll interact with:
 ## 📄 License
 
 This is an unlicensed personal project created for the purpose of learning and experimenting with Unreal Engine 5.
+
+<div align="center">
+  <img src="screenshots/github-readme-banner.svg" alt="Signature" />
+</div>
