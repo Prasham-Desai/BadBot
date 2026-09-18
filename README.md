@@ -1,3 +1,7 @@
+﻿<div align="center">
+  <img src="ScreenShots/github-intro-banner.svg" width="100%" alt="Intro Banner"/>
+</div>
+---
 <div align="center">
   <img src="./ScreenShots/Game%20Logo.png" alt="BadBot Logo" width="400"/>
   
